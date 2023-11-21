@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354154698093",
+    "project_id": "flash-chat-ea26d",
+    "storage_bucket": "flash-chat-ea26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354154698093:android:23fc66ca4e763b6030f664",
+        "android_client_info": {
+          "package_name": "com.hari.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoePD_BG4jAydpUhEGlIyC6_BcV_6BuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
